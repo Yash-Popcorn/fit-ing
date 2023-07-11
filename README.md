@@ -11,6 +11,7 @@ The fitness companion opens a new window of your camera and starts listening for
 
 ## Installation & Setup
 YOU MUST HAVE A WINDOWS FOR THIS TO WORK
+
 YOU MUST INSTALL ALL PACKAGES ALSO
 
 ```python
